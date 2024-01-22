@@ -7,7 +7,7 @@ Backend for a chat application (web application that runs on browser)
 Description<br>
 - In this web app users can reqister, log in, search other users and send/receive private messages to/from other users.<br>
 - My role in this project was to develop the backend for this application as a pair work with my fellow student Mirva.<br>
-- I did not take part in the development of the frontend/UI.<p></p>
+- I didn't take part in the frontend/UI development - thats why I've included only the backend.<p></p>
 <p></p>
 Technologies used<br>
 - Programming language: Java<br>
