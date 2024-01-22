@@ -5,7 +5,7 @@ Backend for a browser chat application
 <img width="652" alt="Screenshot 2024-01-22 at 14 34 05" src="https://github.com/satukon/Chat-App-backend/assets/113008423/a4183309-c71e-41b0-9762-5b30bd567655"><br>
 <p></p>
 Description<br>
-- In this web app users can reqister, log in and send/receive private messages to/from other users.<br>
+- In this web app users can reqister, log in, search other users and send/receive private messages to/from other users.<br>
 - My role in this project was to develop the backend for this application as a pair work with my fellow student Mirva.<br>
 - I did not take part in the development of the frontend.<p></p>
 <p></p>
