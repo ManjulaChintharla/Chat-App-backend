@@ -14,7 +14,7 @@ Technologies used<br>
 - Framework: Java Spring<br>
 - Messaging protocol: STOMP over WebSocet (used to handle 2-way messaging)<br>
 - Database access: MariaDB database in a cloud environment<br>
-- Uses SHA-256 hashing algorithm for password encryption<br>
+- SHA-256 hashing algorithm for password encryption<br>
 <p></p>
 Configuration / running the app<br>
 - Run from project root by using command: mvn spring-boot:run<br>
