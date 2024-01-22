@@ -1,4 +1,4 @@
-Backend for a browser chat application
+Backend for a chat application (web application that runs on browser)
 <p></p>
 <img width="652" alt="Screenshot 2024-01-18 at 20 26 18" src="https://github.com/satukon/Chat-App-backend/assets/113008423/389820c5-9a19-4877-af61-1963b9183682"><br>
 <img width="652" alt="Screenshot 2024-01-18 at 20 26 31" src="https://github.com/satukon/Chat-App-backend/assets/113008423/0bc03901-e4fb-4634-af15-82f1d72d570a"><br>
