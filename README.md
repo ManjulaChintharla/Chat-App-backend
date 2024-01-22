@@ -12,7 +12,7 @@ Description<br>
 Technologies used<br>
 - Programming language: Java<br>
 - Framework: Java Spring<br>
-- Messaging protocol: STOMP over WebSocet (used to handle 2-way messaging)<br>
+- Messaging protocol: STOMP over WebSocket (used to handle 2-way messaging)<br>
 - Database access: MariaDB database in a cloud environment<br>
 - SHA-256 hashing algorithm for password encryption<br>
 <p></p>
