@@ -1,5 +1,5 @@
 # Backend for "Chat App"
-- The backend of a web application that runs on browser
+- The backend of a web chat application that runs on browser
 
 ## Description
 - In this web app users can register, log in, search other users and send/receive private messages.<br>
@@ -24,6 +24,9 @@
 
 ## Screenshots
 - I've included a few screen shots for visualisation:
+
+<p></p>
+
 <img width="652" alt="Screenshot 2024-01-18 at 20 26 18" src="https://github.com/satukon/Chat-App-backend/assets/113008423/389820c5-9a19-4877-af61-1963b9183682"><p>
 <img width="652" alt="Screenshot 2024-01-18 at 20 26 31" src="https://github.com/satukon/Chat-App-backend/assets/113008423/0bc03901-e4fb-4634-af15-82f1d72d570a"><p>
 <img width="652" alt="Screenshot 2024-01-22 at 14 34 05" src="https://github.com/satukon/Chat-App-backend/assets/113008423/a4183309-c71e-41b0-9762-5b30bd567655"><p>
