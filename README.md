@@ -16,7 +16,7 @@
 <p></p>
 
 ## Configuration / running the app
-- Run from project root by using command: mvn spring-boot:run<br>
+- Run from project root by using command: ``mvn spring-boot:run``<br>
 - As application.properties file is not included, database access won't work<br>
 
 <p></p>
