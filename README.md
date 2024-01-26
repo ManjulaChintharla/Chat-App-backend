@@ -5,6 +5,7 @@
 - My role in this project was to develop the backend for this application as a pair work with my fellow student Mirva.<br>
 - I didn't take part in the frontend/UI development - that's why I've included only the backend.<p></p>
 <p></p>
+
 #### Technologies used<br>
 - Programming language: Java<br>
 - Spring Framework<br>
@@ -12,10 +13,12 @@
 - Database access: MariaDB database in a cloud environment<br>
 - SHA-256 hashing algorithm for password encryption<br>
 <p></p>
+
 #### Configuration / running the app<br>
 - Run from project root by using command: mvn spring-boot:run<br>
 - As application.properties file is not included, database access won't work<br>
 <p></p>
+
 #### Acknowledgments<br>
 - Tank you to everyone who worked with me on this challenging project :) <3
 
