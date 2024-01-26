@@ -1,4 +1,5 @@
-### Backend for a chat application (web application that runs on browser)
+### Backend for "Chat App"
+- The backend of a web application that runs on browser
 
 #### Description<br>
 - In this web app users can register, log in, search other users and send/receive private messages.<br>
