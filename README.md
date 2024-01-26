@@ -18,10 +18,6 @@
 #### Configuration / running the app<br>
 - Run from project root by using command: mvn spring-boot:run<br>
 - As application.properties file is not included, database access won't work<br>
-<p></p>
-
-#### Acknowledgments<br>
-- Tank you to everyone who worked with me on this challenging project :) <3
 
 <p></p>
 <img width="652" alt="Screenshot 2024-01-18 at 20 26 18" src="https://github.com/satukon/Chat-App-backend/assets/113008423/389820c5-9a19-4877-af61-1963b9183682"><p>
