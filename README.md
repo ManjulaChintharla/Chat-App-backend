@@ -3,7 +3,7 @@
 
 ## Description
 - In this web app users can register, log in, search other users and send/receive private messages.<br>
-- My role in this project was to develop the backend for this application as a pair work with my fellow student Mirva.<br>
+- My role in this project was to develop the backend of this application as a pair work with my fellow student Mirva.<br>
 - I didn't take part in the frontend/UI development - that's why I've included only the backend.
 
 <p></p>
