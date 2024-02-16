@@ -1,5 +1,5 @@
 # Backend for "Chat App"
-- The backend of a web chat application that runs on browser
+- The backend of a web private chat application.
 
 ## Description
 - In this web app users can register, log in, search other users and send/receive private messages.<br>
