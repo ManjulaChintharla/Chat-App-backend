@@ -22,8 +22,9 @@
 <img width="652" alt="Screenshot 2024-01-18 at 20 26 31" src="https://github.com/satukon/Chat-App-backend/assets/113008423/0bc03901-e4fb-4634-af15-82f1d72d570a"><p>
 <img width="652" alt="Screenshot 2024-01-22 at 14 34 05" src="https://github.com/satukon/Chat-App-backend/assets/113008423/a4183309-c71e-41b0-9762-5b30bd567655"><p>
 
-## Configuration / running the app
-- Run from project root by using command: ``mvn spring-boot:run``<br>
-- Please note that as application.properties file containing the onnection string to to the MariaDB datavase is not included, database access won't work.
+## Configurating and running the app
+- Install dependencies: ``mvn clean install``<br>
+- Run from project root: ``mvn spring-boot:run``<br>
+- Please note that database access won't work as application.properties file containing the onnection string to to the database is not included.
 
 <p></p>
