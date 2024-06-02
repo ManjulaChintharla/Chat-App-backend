@@ -1,10 +1,7 @@
-# Backend for "Chat App"
-- The backend of a browser-based chat application.
-
 ## Description
-- In this web app users can register, log in, search other users and send/receive private messages.<br>
-- My role in this project was to develop the backend of this application as a pair work with my fellow student Mirva.<br>
-- I didn't take part in the frontend/UI development - that's why I've included only the backend.
+- This is the backed of a web chat application where users can register, log in, search for other users to chat with and send/receive private messages with them.<br>
+- My role in this project was to develop this backend solution as a pair work with my fellow student Mirva.<br>
+- I didn't take part in the frontend/UI development - that's why I've included only the codes for the backend.
 
 <p></p>
 
