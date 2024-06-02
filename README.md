@@ -24,6 +24,6 @@
 
 ## Configuration / running the app
 - Run from project root by using command: ``mvn spring-boot:run``<br>
-- Please note thqt as application.properties file containing the onnection string to to the MariaDB datavase is not included, database access won't work.
+- Please note that as application.properties file containing the onnection string to to the MariaDB datavase is not included, database access won't work.
 
 <p></p>
